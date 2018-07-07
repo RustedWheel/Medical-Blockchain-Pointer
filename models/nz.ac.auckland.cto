@@ -34,7 +34,7 @@ participant HealthProvider identified by hid {
   o String name
   o String phone
   o String address
-  o String restEndPoint
+  o String restEndPointLink
 }
 
 participant Viewer identified by vid {
